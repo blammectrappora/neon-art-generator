@@ -83,3 +83,12 @@ If no prompt is provided, the following default is used:
 
 > neon glowing portrait, vibrant neon lights, electric blue and pink neon colors, dark background, cinematic lighting, neon reflections, cyberpunk neon aesthetic, high contrast, ultra detailed
 
+## Example Output
+
+```bash
+node neonartgenerator.js "neon glowing portrait, vibrant neon lights, electric blue and pink neon colors, dark background, cinematic lighting, neon reflections, cyberpunk neon aesthetic, high contrast, ultra detailed"
+```
+
+![Example output](https://oss.talesofai.cn/picture/fde11fb1-4624-41d7-ae78-017c2d0db535.webp)
+
+> Prompt: *"neon glowing portrait, vibrant neon lights, electric blue and pink neon colors, dark background, cinematic lighting, neon reflections, cyberpunk neon aesthetic, high contrast, ultra detailed"*
